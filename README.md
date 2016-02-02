@@ -23,9 +23,9 @@ $data_sampled = $lttb->lttb($data_src);
 
 To install do the normal Perl thing...
 
->perl Makefile.pl
->make
->make test
->make install
+perl Makefile.pl
+make
+make test
+make install
 ~
 
