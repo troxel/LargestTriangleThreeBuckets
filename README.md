@@ -19,11 +19,7 @@ $data_src = [ [1,2], [2,3], [3,4], [4,5], ... ];  <-- load your data source here
 
 $data_sampled = $lttb->lttb($data_src);
 
-## Install 
-
-# LargestTriangleThreeBuckets
-Perl module to downsample data using the Largest Triangle Three Buckets algorithm
-==========================
+### Install 
 
 To install do the normal Perl thing...
 
